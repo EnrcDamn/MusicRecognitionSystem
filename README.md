@@ -7,6 +7,7 @@ MusicRecognitionSystem requires the following to run:
 * librosa==0.8.1
 * matplotlib==3.5.1
 * numpy==1.21.5
+* scikit-image==0.19.1
 
 
 ## Installation and activation
