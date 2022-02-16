@@ -1,9 +1,12 @@
 # MusicRecognitionSystem
 
-## Prerequisites
-Python version: Python 3.10.x
-
-pip version: pip 21.3.x
+## Requirements
+MusicRecognitionSystem requires the following to run:
+* Python 3.10+
+* pip 21.3+
+* librosa==0.8.1
+* matplotlib==3.5.1
+* numpy==1.21.5
 
 
 ## Installation and activation
